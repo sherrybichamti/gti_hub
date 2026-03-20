@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# XAMPP/Environment specific
+.php_history
+
+# Documentation/Backups
+documentation/
+database/
+*.pdf
+*.bak
+*.tmp
+*.sql.bak
